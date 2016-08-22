@@ -1,0 +1,14 @@
+@import '../variables.scss';
+
+header {
+    background-color: $header_bg_color;
+    color: $header_color;
+    height: $header_height;
+    width: 100%;
+    margin-bottom: $header_height;
+
+    a img {
+        margin-top: 10px;
+        width: 250px;
+    }
+}

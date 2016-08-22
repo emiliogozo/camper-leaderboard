@@ -1,0 +1,11 @@
+@import './styles/variables.scss';
+
+@import './styles/components/header.scss';
+@import './styles/components/media-box.scss';
+@import './styles/components/leader-board.scss';
+@import './styles/components/table-header.scss';
+@import './styles/components/table-row.scss';
+
+body {
+    background-color: #00BCD4;
+}

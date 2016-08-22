@@ -1,0 +1,15 @@
+$width: 40px;
+
+.media-box {
+    img {
+        width: $width;
+        height: $width;
+        border: ($width/20) solid #381F0B;
+        border-radius: $width/10;
+        margin-right: $width/10;
+    }
+
+    span {
+        font-size: 18px;
+    }
+}
